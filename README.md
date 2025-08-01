@@ -1,2 +1,2 @@
 # hand_sign
-made with the help of Ai intelligence
+sign language made with the help of Ai intelligence
